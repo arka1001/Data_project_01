@@ -63,6 +63,6 @@ def simple_heuristic(file_path):
             predictions[passenger_id] = 0
         if passenger['Sex'] == 'female':
             predictions[passenger_id] = 1
-        #predictions[passenger["PassengerId"]] = (passenger["Sex"] == "female")
+        #oneliner : predictions[passenger["PassengerId"]] = (passenger["Sex"] == "female")
       
     return predictions
