@@ -66,3 +66,4 @@ def simple_heuristic(file_path):
         #oneliner : predictions[passenger["PassengerId"]] = (passenger["Sex"] == "female")
       
     return predictions
+
