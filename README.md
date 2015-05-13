@@ -1,4 +1,4 @@
-# Data_project_udacity
+# Data_project_01_udacity
 In this exercise and the following ones, you are given a list of Titantic passengers and their associated information. More information about the data can be seen at the link below:
 
 http://www.kaggle.com/c/titanic-gettingStarted/data. 
